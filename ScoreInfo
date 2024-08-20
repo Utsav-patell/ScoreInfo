@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram name="Page-1" id="tfCOI9uuTIpdPOBTFUZK">
+    <mxGraphModel dx="794" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2170" pageHeight="2731" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IG_eXKfXM4LaaCin6Gg5-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="480" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="IG_eXKfXM4LaaCin6Gg5-2" value="1)&amp;nbsp;Identifying the requirements from problem statement" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IG_eXKfXM4LaaCin6Gg5-3" value="Problem Statement : Designing a system like &lt;b&gt;Circbuzz&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IG_eXKfXM4LaaCin6Gg5-4" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;Functional Requirements&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;The system should keep track of all cricket-playing teams and their matches.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;The system should show live ball-by-ball commentary of cricket matches.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;Any team playing a tournament will announce a squad (a set of players) for the tournament.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;The system should keep track of all ODI, Test and T20 matches.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;The system should be able to record stats about players, matches, and tournaments.&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Non-Functional Requirements&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Including info of games other then cricket.&lt;/li&gt;&lt;li&gt;Adding winning probability of teams.&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Verdana;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="420" width="440" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
